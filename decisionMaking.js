@@ -34,10 +34,10 @@ if (bearChoice === 1) {
 
 
 // Questions
-// 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16.
-// 2. What variable has a new value assigned to it after the first if statement executes?
-// 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be?
-// 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33.
-// 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be?
-// 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be?
-// 7. What is your favorite ending?
+// 1. In English, using technical vocabulary, describe what is happening between lines 12 and 16. 12-16 is the choice or if else statement. basically saying if we choose door 1 this wiil happen and anyother door this will happen
+// 2. What variable has a new value assigned to it after the first if statement executes? doorChoice
+// 3. If you changed the variable doorChoice to equal 3, what would the bearClothing value be? the scarf because its anything other than 1
+// 4. In English, using technical vocabulary, describe what is happening between lines lines 25 and 33. If you either choose options 1 2 3 or any other number different scenarios will happen
+// 5. If you changed the variable bearChoice to equal 3, what will be the final outcome be? You can run as fast as you can into the next room. Its full o snakes
+// 6. If you changed the variable doorChoice to equal 1, and the variable bearChoice to equal 2, what will be the final outcome be? you see a bear put a hat on and the bear shows you a secret passage out
+// 7. What is your favorite ending? the third one because the full of snakes caught me off guard and i laughed
