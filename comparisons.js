@@ -52,21 +52,21 @@ console.log("Is numberTeachers greater than numberStudents?", numberTeachers > n
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-// YOU DO: Explain.
+// YOU DO: Explain. 4 is less than 9 so output will be true
 
 var books = 3;
 console.log(4 < books);
-// YOU DO: Explain.
+// YOU DO: Explain. 3 is replaced with books but 4 is not less than 3 so its false
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// YOU DO: Explain.
+// YOU DO: Explain. 6 is replaced with friends and 2 is replaced with sibllings and output will be true because 6 is greater than 2
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees != meals);
-// YOU DO: Explain.
+// YOU DO: Explain. attendees will be replaced with 9 and meals will be replaced with 8 and it will be true because its not equal
 
 
 // #-------------------
@@ -90,14 +90,14 @@ var age = 1;
 // YOU DO:
 // Determine if the dog loves to play and loves treats
 
-
+console.log(lovesToPlay && lovesTreats);
 // Determine if the dog loves to play and loves the dog park
-
+console.log(lovesToPlay && lovesDogPark);
 
 // Determine if the dog loves to play or loves the dog park
-
+console.log(lovesToPlay || lovesDogPark);
 
 // Determine if the dog loves to play and is a puppy
-
-// What did your final line of code evaluate to? Why do you think that is? Explain.
+console.log(lovesToPlay && age)
+// What did your final line of code evaluate to? Why do you think that is? Explain. I got one for my final code and I think I got that because there isnt a variable that determines what a puppy is.
 // ANSWER:
